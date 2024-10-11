@@ -26,6 +26,7 @@ cd HACk.CC
 python c.c.py
 ```
 
+# Tool Password:â¬‡ï¸
 
 ```
 DARK-RA
